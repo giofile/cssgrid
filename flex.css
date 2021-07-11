@@ -1,0 +1,32 @@
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+html, body{
+    background-color: blueviolet;
+  font-size: 20px;
+    color:rgb(252, 252, 23)
+}
+
+.ab{
+    background-color: burlywood;
+
+}
+.ac{
+    background-color: chartreuse;
+}
+.ad{
+    background-color: cornflowerblue;
+}
+
+.ae{
+    background-color: darkcyan;
+}
+
+
+
+
+
